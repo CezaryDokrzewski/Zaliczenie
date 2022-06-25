@@ -1,0 +1,21 @@
+2.
+Sprawdzenie statusu zmian: git status
+Dodawanie wszystkich brakujących plików: git add -A
+Potwierdzenie wszystkich plików z komentarzem: git commit -am""
+Na koniec, żeby połączyć się z zewnętrznym repozytoium na GitHubie trzeba, na przykładzie repozytorium, które do Pana wyśle, dodać:
+git remote add origin https://github.com/CezaryDokrzewski/Zaliczenie.git
+git branch -M main
+git push -u origin main
+
+3.
+1. Select
+	From Coffeshop.xlsx
+	where latte, long black
+2.
+   Select
+	From william thompson_86
+	Where Product
+3.
+   Select
+	From City
+	Where Cappucino, Flat White
